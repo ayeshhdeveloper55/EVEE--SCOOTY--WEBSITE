@@ -1,0 +1,131 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main1{
+    background-color: rgb(76, 75, 75);
+}
+
+
+.hon:hover{
+    background-color: green;
+    padding: 15px;
+    transition: all 0.2s ease ;
+}
+.bbt{
+    color: green;
+}
+.hon{
+    transition: 2s ease-out;
+}
+@media only screen and (max-width:768px){
+   .ohn{
+    margin-left: 800xp;
+    color: green;
+
+   }
+}
+
+ @media only screen and (max-width:525px){
+    .sec1{
+        background-size: 600px;
+       
+    }
+ }
+/* SECTION TWO */
+.sec1{
+    background-image: url(./1-copy-scaled-e1735824945852.jpg);
+    background-size: cover;
+    height:90vh;
+    
+}
+.sec1 h2{
+    color: rgb(7, 160, 7);
+    transition: 3s;
+    padding-top: 200px;  
+}
+/* THIRD SECTION */
+.third{
+    background-color: rgba(132, 219, 219, 0.2);
+    padding-left: 30px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
+.th1{
+    color: rgb(33, 33, 82);
+    font-weight: 900;
+}
+.th2{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.th2 button{
+    background-color: rgb(33, 21, 73) ;
+    padding: 20px;
+    border: none;
+    color: white;
+    width: 150px;
+}
+button:hover{
+    background-color: rgba(33, 21, 73, 0.6); 
+   color: rgb(33, 21, 73) 
+
+}
+.fif{
+    background-color: rgba(132, 219, 219, 0.2);
+    padding: 20px;
+    
+}
+.fif1:hover{
+    box-shadow: 3px 20px 20px 10px rgb(50, 120, 50) ;
+    transition:2s ;
+    background-color:rgb(33, 21, 73) ;
+    
+
+}
+.six{
+    background-color:rgba(128, 204, 215, 0.2) ;
+     padding: 40px;
+     color: rgb(33, 21, 73) 
+}
+.six2{
+    color: rgb(33, 21, 73) 
+
+}
+.crd{
+    background-color: green; 
+    color: white;
+    font-weight: 700;
+    width: 180px;
+    height: 50px;
+    
+}
+.cart2{
+    padding: 50px;
+    
+}
+.cart1{
+    height: 500px;
+}
+.hi{
+    color: green;
+    font-size: 30px;
+}
+.last{
+    background-color: rgba(132, 219, 219, 0.2);
+
+}
+.la1{
+    padding: 60px;
+}
+.la2 img{
+    width: 400px;
+    height: 400px;
+    padding: 40px;
+}
+.min{
+    background-color: rgba(132, 219, 219, 0.2);
+
+}
